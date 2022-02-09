@@ -1,0 +1,8 @@
+astropy
+astroquery
+pyESASky
+matplotlib
+numpy
+scipy
+pandas
+PyGaia
